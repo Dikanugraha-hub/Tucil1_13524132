@@ -80,9 +80,14 @@ pip install pillow
 2. **Navigasi ke direktori proyek**
 
 3. **Jalankan program GUI**
-   ```bash
-   python main_gui.py
-   ```
+   - Windows
+      ```bash
+      python main_gui.py
+      ```
+   - Linux
+      ```bash
+      python3 main_gui.py
+      ```
 
 ### Using the GUI
 
@@ -113,10 +118,10 @@ pip install pillow
 ### Input Format (TXT)
 File TXT harus memiliki format sebagai berikut:
 ```
-A B B C
-A D C C
-D D E E
-F F E G
+AAAA
+BBBB
+CCCC
+DDDD
 ```
 matriks region yang direpresentasikan dengan huruf (A-Z)
 
