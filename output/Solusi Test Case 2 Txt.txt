@@ -1,0 +1,26 @@
+==================================================
+N-QUEENS SOLVER - SOLUTION
+==================================================
+
+Ukuran Grid: 4x4
+Mode: Brute Force
+Optimasi: Tidak
+Waktu Eksekusi: 51.012 ms
+Jumlah Iterasi: 115
+Tanggal: 2026-02-17 21:22:42
+
+SOLUSI:
+--------------------------------------------------
+
+A # B B
+A A B #
+# C D D
+C C # D
+
+--------------------------------------------------
+
+POSISI QUEEN (Baris, Kolom):
+Baris 1: Kolom 2
+Baris 2: Kolom 4
+Baris 3: Kolom 1
+Baris 4: Kolom 3
